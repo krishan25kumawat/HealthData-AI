@@ -1,6 +1,9 @@
-# Healthcare Chatbot System
+# Health Data AI
 
 A full-stack, production-ready system that allows users to query a MongoDB healthcare database using natural language, powered by GPT-4o.
+
+## Demo Video
+https://drive.google.com/drive/folders/1FNRL6Mlkuhmp-TIc79P3uQ_tT7Lpl0eJ
 
 ## Prerequisites
 - Python 3.9+

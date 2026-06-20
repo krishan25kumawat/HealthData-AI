@@ -1,4 +1,4 @@
-# Health Data AI
+# HealthData AI
 
 A full-stack, production-ready system that allows users to query a MongoDB healthcare database using natural language, powered by GPT-4o.
 
